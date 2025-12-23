@@ -22,7 +22,7 @@ Cities like Ahmedabad spend crores annually on road repairs, yet:
 Core issue:
 The system rewards *speed and volume of patches*, not *durability or lifecycle cost reduction*.
 
--
+
 
 Product Goal
 
